@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: read-financial-father
+package: smiletondi/read-financial-father
